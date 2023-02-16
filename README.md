@@ -1,4 +1,4 @@
-h1> Projeto Alura Ruana </h1>
+<h1> Projeto Alura Ruana </h1>
 
 status do projeto: em desenvolvimento.
 
